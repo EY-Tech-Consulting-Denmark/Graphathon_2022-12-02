@@ -1,10 +1,10 @@
 # Graphathon_2022-12-02
 
-Repository for material for the graph hackathon facilitated on 2th December 2022.  
+Repository for material for the graph hackathon facilitated on 2nd December 2022.  
 
 For this graphathon was used data from Kaggle https://www.kaggle.com/code/rajesh2609/medicare-provider-fraud-detection and stored in this repository. 
 
-All the preprocessing steps happens in [DataPreparation notebook]().   
+All the preprocessing steps  (no need to re-run them) happens in [DataPreparation notebook](https://github.com/EY-Tech-Consulting-Denmark/Graphathon_2022-12-02/blob/main/Notebooks/DataPreparation.ipynb).   
 
 The preprocessed data are stored in this repository as well.   
 
